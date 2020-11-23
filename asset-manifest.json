@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/good_vs_evil/static/css/main.86b84db7.chunk.css",
+    "main.js": "/good_vs_evil/static/js/main.8480f447.chunk.js",
+    "main.js.map": "/good_vs_evil/static/js/main.8480f447.chunk.js.map",
+    "runtime-main.js": "/good_vs_evil/static/js/runtime-main.fda217f5.js",
+    "runtime-main.js.map": "/good_vs_evil/static/js/runtime-main.fda217f5.js.map",
+    "static/css/2.8cdfe4cf.chunk.css": "/good_vs_evil/static/css/2.8cdfe4cf.chunk.css",
+    "static/js/2.aaca6752.chunk.js": "/good_vs_evil/static/js/2.aaca6752.chunk.js",
+    "static/js/2.aaca6752.chunk.js.map": "/good_vs_evil/static/js/2.aaca6752.chunk.js.map",
+    "index.html": "/good_vs_evil/index.html",
+    "precache-manifest.cb33d543fd91c9adf989165e5892d9b4.js": "/good_vs_evil/precache-manifest.cb33d543fd91c9adf989165e5892d9b4.js",
+    "service-worker.js": "/good_vs_evil/service-worker.js",
+    "static/css/2.8cdfe4cf.chunk.css.map": "/good_vs_evil/static/css/2.8cdfe4cf.chunk.css.map",
+    "static/css/main.86b84db7.chunk.css.map": "/good_vs_evil/static/css/main.86b84db7.chunk.css.map",
+    "static/js/2.aaca6752.chunk.js.LICENSE.txt": "/good_vs_evil/static/js/2.aaca6752.chunk.js.LICENSE.txt",
+    "static/media/VS.png": "/good_vs_evil/static/media/VS.8eb9fd93.png",
+    "static/media/clicking.png": "/good_vs_evil/static/media/clicking.e36aaf81.png",
+    "static/media/icon.png": "/good_vs_evil/static/media/icon.e4bd95a5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fda217f5.js",
+    "static/css/2.8cdfe4cf.chunk.css",
+    "static/js/2.aaca6752.chunk.js",
+    "static/css/main.86b84db7.chunk.css",
+    "static/js/main.8480f447.chunk.js"
+  ]
+}
