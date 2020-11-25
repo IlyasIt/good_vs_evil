@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "18059a349f72f9cee9e8cb47dd877d7f",
+    "revision": "ca69c3dd212be35dff77356f2fae54d1",
     "url": "/good_vs_evil/index.html"
   },
   {
-    "revision": "5cc44b5867fcb6df5bf4",
+    "revision": "200f2b6c71b2de200aa0",
     "url": "/good_vs_evil/static/css/2.8cdfe4cf.chunk.css"
   },
   {
-    "revision": "b673ef99ec0fc0f2dcd0",
+    "revision": "a7c5ce58651c68e47f71",
     "url": "/good_vs_evil/static/css/main.b2250eac.chunk.css"
   },
   {
-    "revision": "5cc44b5867fcb6df5bf4",
-    "url": "/good_vs_evil/static/js/2.03bf8d6e.chunk.js"
+    "revision": "200f2b6c71b2de200aa0",
+    "url": "/good_vs_evil/static/js/2.d46c519e.chunk.js"
   },
   {
     "revision": "4150a627f5138970747231fcef63f425",
-    "url": "/good_vs_evil/static/js/2.03bf8d6e.chunk.js.LICENSE.txt"
+    "url": "/good_vs_evil/static/js/2.d46c519e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b673ef99ec0fc0f2dcd0",
-    "url": "/good_vs_evil/static/js/main.b87e6fc4.chunk.js"
+    "revision": "a7c5ce58651c68e47f71",
+    "url": "/good_vs_evil/static/js/main.6027a452.chunk.js"
   },
   {
     "revision": "e79780b47ee0d547686f",
