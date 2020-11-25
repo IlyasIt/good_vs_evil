@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/good_vs_evil/static/css/main.b2250eac.chunk.css",
-    "main.js": "/good_vs_evil/static/js/main.1be39ea8.chunk.js",
-    "main.js.map": "/good_vs_evil/static/js/main.1be39ea8.chunk.js.map",
+    "main.js": "/good_vs_evil/static/js/main.b87e6fc4.chunk.js",
+    "main.js.map": "/good_vs_evil/static/js/main.b87e6fc4.chunk.js.map",
     "runtime-main.js": "/good_vs_evil/static/js/runtime-main.fda217f5.js",
     "runtime-main.js.map": "/good_vs_evil/static/js/runtime-main.fda217f5.js.map",
     "static/css/2.8cdfe4cf.chunk.css": "/good_vs_evil/static/css/2.8cdfe4cf.chunk.css",
     "static/js/2.03bf8d6e.chunk.js": "/good_vs_evil/static/js/2.03bf8d6e.chunk.js",
     "static/js/2.03bf8d6e.chunk.js.map": "/good_vs_evil/static/js/2.03bf8d6e.chunk.js.map",
     "index.html": "/good_vs_evil/index.html",
-    "precache-manifest.f74e719e4b6b63cb4d701cfd01a55b79.js": "/good_vs_evil/precache-manifest.f74e719e4b6b63cb4d701cfd01a55b79.js",
+    "precache-manifest.4a31acbf5bcc8dfed7147606c5942030.js": "/good_vs_evil/precache-manifest.4a31acbf5bcc8dfed7147606c5942030.js",
     "service-worker.js": "/good_vs_evil/service-worker.js",
     "static/css/2.8cdfe4cf.chunk.css.map": "/good_vs_evil/static/css/2.8cdfe4cf.chunk.css.map",
     "static/css/main.b2250eac.chunk.css.map": "/good_vs_evil/static/css/main.b2250eac.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.8cdfe4cf.chunk.css",
     "static/js/2.03bf8d6e.chunk.js",
     "static/css/main.b2250eac.chunk.css",
-    "static/js/main.1be39ea8.chunk.js"
+    "static/js/main.b87e6fc4.chunk.js"
   ]
 }

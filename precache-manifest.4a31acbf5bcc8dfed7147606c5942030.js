@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eb4d44d8b5b1351c157eff11aa6fd840",
+    "revision": "18059a349f72f9cee9e8cb47dd877d7f",
     "url": "/good_vs_evil/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/good_vs_evil/static/css/2.8cdfe4cf.chunk.css"
   },
   {
-    "revision": "94e0726de13bc0e578a7",
+    "revision": "b673ef99ec0fc0f2dcd0",
     "url": "/good_vs_evil/static/css/main.b2250eac.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/good_vs_evil/static/js/2.03bf8d6e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "94e0726de13bc0e578a7",
-    "url": "/good_vs_evil/static/js/main.1be39ea8.chunk.js"
+    "revision": "b673ef99ec0fc0f2dcd0",
+    "url": "/good_vs_evil/static/js/main.b87e6fc4.chunk.js"
   },
   {
     "revision": "e79780b47ee0d547686f",
