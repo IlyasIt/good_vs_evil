@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/good_vs_evil/static/css/main.47f78295.chunk.css",
-    "main.js": "/good_vs_evil/static/js/main.6a6be491.chunk.js",
-    "main.js.map": "/good_vs_evil/static/js/main.6a6be491.chunk.js.map",
+    "main.css": "/good_vs_evil/static/css/main.b2250eac.chunk.css",
+    "main.js": "/good_vs_evil/static/js/main.f9d74cfe.chunk.js",
+    "main.js.map": "/good_vs_evil/static/js/main.f9d74cfe.chunk.js.map",
     "runtime-main.js": "/good_vs_evil/static/js/runtime-main.fda217f5.js",
     "runtime-main.js.map": "/good_vs_evil/static/js/runtime-main.fda217f5.js.map",
     "static/css/2.8cdfe4cf.chunk.css": "/good_vs_evil/static/css/2.8cdfe4cf.chunk.css",
-    "static/js/2.61746fd2.chunk.js": "/good_vs_evil/static/js/2.61746fd2.chunk.js",
-    "static/js/2.61746fd2.chunk.js.map": "/good_vs_evil/static/js/2.61746fd2.chunk.js.map",
+    "static/js/2.03bf8d6e.chunk.js": "/good_vs_evil/static/js/2.03bf8d6e.chunk.js",
+    "static/js/2.03bf8d6e.chunk.js.map": "/good_vs_evil/static/js/2.03bf8d6e.chunk.js.map",
     "index.html": "/good_vs_evil/index.html",
-    "precache-manifest.b5541231742a297d19d6af95d47a9874.js": "/good_vs_evil/precache-manifest.b5541231742a297d19d6af95d47a9874.js",
+    "precache-manifest.e6b6da8f49bbca511d4bb4cafb047ab4.js": "/good_vs_evil/precache-manifest.e6b6da8f49bbca511d4bb4cafb047ab4.js",
     "service-worker.js": "/good_vs_evil/service-worker.js",
     "static/css/2.8cdfe4cf.chunk.css.map": "/good_vs_evil/static/css/2.8cdfe4cf.chunk.css.map",
-    "static/css/main.47f78295.chunk.css.map": "/good_vs_evil/static/css/main.47f78295.chunk.css.map",
-    "static/js/2.61746fd2.chunk.js.LICENSE.txt": "/good_vs_evil/static/js/2.61746fd2.chunk.js.LICENSE.txt",
+    "static/css/main.b2250eac.chunk.css.map": "/good_vs_evil/static/css/main.b2250eac.chunk.css.map",
+    "static/js/2.03bf8d6e.chunk.js.LICENSE.txt": "/good_vs_evil/static/js/2.03bf8d6e.chunk.js.LICENSE.txt",
     "static/media/VS.png": "/good_vs_evil/static/media/VS.3969a829.png",
     "static/media/clicking.png": "/good_vs_evil/static/media/clicking.e36aaf81.png",
     "static/media/icon.png": "/good_vs_evil/static/media/icon.e4bd95a5.png"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.fda217f5.js",
     "static/css/2.8cdfe4cf.chunk.css",
-    "static/js/2.61746fd2.chunk.js",
-    "static/css/main.47f78295.chunk.css",
-    "static/js/main.6a6be491.chunk.js"
+    "static/js/2.03bf8d6e.chunk.js",
+    "static/css/main.b2250eac.chunk.css",
+    "static/js/main.f9d74cfe.chunk.js"
   ]
 }
